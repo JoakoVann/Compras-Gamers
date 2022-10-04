@@ -12,8 +12,8 @@ const NavBar = () => {
           </Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link as={Link} to='/' > Inicio </Nav.Link>
-          <Nav.Link as={Link} to='/category/proce' > Procesadores </Nav.Link>
-          <Nav.Link as={Link} to='/category/gpu'> Placas de video </Nav.Link>
+          <Nav.Link as={Link} to='/category/Proce' > Procesadores </Nav.Link>
+          <Nav.Link as={Link} to='/category/GPU'> Placas de video </Nav.Link>
         </Nav>
         <CartWidget />
       </Container>
