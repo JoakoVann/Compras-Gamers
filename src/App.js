@@ -12,7 +12,7 @@ import ItemDetailContainer from './components/ItemDetail/ItemDetailContainer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Compras-Gamers'>
       <NavBar />
       <Routes>
         <Route path='/' element={<ItemListContainer greeting="Bienvenido a Compras Gamers" />}/>

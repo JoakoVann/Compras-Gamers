@@ -21,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage" : "https://joakovann.github.io/Compras-Gamers/",
   "eslintConfig": {
     "extends": [
       "react-app",

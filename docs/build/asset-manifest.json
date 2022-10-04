@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Compras-Gamers/static/css/main.25ed4024.css",
+    "main.js": "/Compras-Gamers/static/js/main.2d1bf312.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Compras-Gamers/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Compras-Gamers/index.html",
+    "main.25ed4024.css.map": "/Compras-Gamers/static/css/main.25ed4024.css.map",
+    "main.2d1bf312.js.map": "/Compras-Gamers/static/js/main.2d1bf312.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Compras-Gamers/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ed4024.css",
+    "static/js/main.2d1bf312.js"
+  ]
+}
